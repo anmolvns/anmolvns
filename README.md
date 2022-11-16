@@ -1,7 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently building Gurukul.<br>🌱 I’m currently learning more about Spring and Angular.<br>
-<!-- 👯 I’m looking to collaborate on Youtube.<br> -->
-🤔 I’m looking for a job.<br>💬 Ask me about Java or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 4 hours listening to songs every day.
+😄 Pronouns: He/His<br>🔭 I’m currently building Gurukul.<br>🌱 I’m currently learning more about Spring and Angular.<br><!-- 👯 I’m looking to collaborate on Youtube.<br> -->🤔 I’m looking for a job.<br>💬 Ask me about Java or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 4 hours listening to songs every day.
 
 
 ## 🌐 Socials:
