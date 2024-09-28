@@ -125,6 +125,16 @@ Looking forward to exploring new opportunities and connecting with fellow develo
 </div>
 <div align="center">
  <hr/>
+
+ <div align="center">
+ 
+ ### My Top Languages
+
+ <img  alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolvns&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+<div align="center">
+ <hr/>
  
 ### Productivity Stats
 
