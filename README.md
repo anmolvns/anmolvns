@@ -153,28 +153,11 @@ Looking forward to exploring new opportunities and connecting with fellow develo
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=anmolvns&theme=onedark&column=8" alt="anmol" />
     </a>
 </div>
+
 <br/>
  <hr/>
- <br/>
+<br/>
 
-<div align=center>
-    <p align="center"> <a href="https://twitter.com/anmolvish24" target="blank"><img src="https://img.shields.io/twitter/follow/anmolvish24?logo=twitter&style=for-the-badge" alt="anmolvish24" /></a> </p>
-<div>
-    - 📫 How to reach me **anmol.vns2000@gmail.com**
-</div>
-</div>
-<br>
-<hr/>
-<br>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/anmolvish24" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="anmolvish24" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anmol-vishwakarma24/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="anmol vishwakarma" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_anmolv24/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
-</p>
-
-<hr>
 
 
 ### ✍️ Dev Quote
